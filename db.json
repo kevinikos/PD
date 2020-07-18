@@ -1,0 +1,232 @@
+{
+  "products": {
+    "products": [
+      {
+        "id": 1,
+        "categories": "living room",
+        "picture": "https://imgur.com/1NqzLBz",
+        "title": "red seat",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 45,
+        "quantity": 100,
+        "likes": 11
+      },
+      {
+        "id": 2,
+        "categories": "living room",
+        "picture": "https://imgur.com/b9irMEW",
+        "title": "white table",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 350,
+        "quantity": 20,
+        "likes": 19
+      },
+      {
+        "id": 3,
+        "categories": "living room",
+        "picture": "https://imgur.com/5ttWGYn",
+        "title": "blue seat",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 35,
+        "quantity": 40,
+        "likes": 52
+      },
+      {
+        "id": 4,
+        "categories": "living room",
+        "picture": "https://imgur.com/knrEeJ1",
+        "title": "modern bed",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 120,
+        "quantity": 20,
+        "likes": 7
+      },
+      {
+        "id": 5,
+        "categories": "living room",
+        "picture": "https://imgur.com/snJcaTY",
+        "title": "dark seat",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+        "price": 50,
+        "quantity": 60,
+        "likes": 74
+      },
+      {
+        "id": 6,
+        "categories": "living room",
+        "picture": "https://via.placeholder.com/265",
+        "title": "malm white",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 15,
+        "quantity": 0,
+        "likes": 10
+      },
+      {
+        "id": 7,
+        "categories": "living room",
+        "picture": "https://via.placeholder.com/200",
+        "title": "friheten green",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 100,
+        "quantity": 100,
+        "likes": 0
+      },
+      {
+        "id": 8,
+        "categories": "living room",
+        "picture": "https://via.placeholder.com/725",
+        "title": "asarum orange",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 75,
+        "quantity": 0,
+        "likes": 62
+      },
+      {
+        "id": 9,
+        "categories": "living room",
+        "picture": "",
+        "title": "angsta",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 35,
+        "quantity": 80,
+        "likes": 2
+      },
+      {
+        "id": 10,
+        "categories": "office",
+        "picture": "",
+        "title": "vikare",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+        "price": 50,
+        "quantity": 4,
+        "likes": 13
+      },
+      {
+        "id": 11,
+        "categories": "for kids",
+        "picture": "https://imgur.com/snJcaTY",
+        "title": "Minions",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+        "price": 45,
+        "quantity": 10,
+        "likes": 1
+      },
+      {
+        "id": 12,
+        "categories": "for kids",
+        "picture": "https://via.placeholder.com/265",
+        "title": "Eddy shark",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 60,
+        "quantity": 30,
+        "likes": 33
+      },
+      {
+        "id": 13,
+        "categories": "kitchen",
+        "picture": "https://via.placeholder.com/200",
+        "title": "Knife",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 10,
+        "quantity": 10,
+        "likes": 28
+      },
+      {
+        "id": 14,
+        "categories": "kitchen",
+        "picture": "https://via.placeholder.com/725",
+        "title": "Knife 2",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 15,
+        "quantity": 0,
+        "likes": 17
+      },
+      {
+        "id": 15,
+        "categories": "kitchen",
+        "picture": "",
+        "title": "v3 Knife",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 10,
+        "quantity": 120,
+        "likes": 90
+      },
+      {
+        "id": 16,
+        "categories": "accessories",
+        "picture": "",
+        "title": "vikare",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+        "price": 25,
+        "quantity": 5,
+        "likes": 2
+      }
+    ]
+  },
+  "categories": {
+    "categories": [
+      {
+        "value": "living room"
+      },
+      {
+        "value": "office"
+      },
+      {
+        "value": "for kids"
+      },
+      {
+        "value": "kitchen"
+      },
+      {
+        "value": "accessories"
+      },
+      {
+        "value": "bedroom"
+      }
+    ]
+  },
+  "favorites": {
+    "favorites": [
+      10,
+      16,
+      1
+    ]
+  },
+  "cartItems": {
+    "cartItems": [
+      {
+        "id": 2,
+        "categories": "living room",
+        "picture": "https://imgur.com/b9irMEW",
+        "title": "white table",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 350,
+        "quantity": 20,
+        "likes": 19,
+        "amount": 1
+      },
+      {
+        "id": 3,
+        "categories": "living room",
+        "picture": "https://imgur.com/5ttWGYn",
+        "title": "blue seat",
+        "description": "Lorem ipsum dolor sit amet",
+        "price": 35,
+        "quantity": 40,
+        "likes": 52,
+        "amount": 7
+      },
+      {
+        "id": 6,
+        "categories": "living room",
+        "picture": "https://via.placeholder.com/265",
+        "title": "malm white",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "price": 15,
+        "quantity": 0,
+        "likes": 10,
+        "amount": 0
+      }
+    ]
+  }
+}
