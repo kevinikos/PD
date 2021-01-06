@@ -9,7 +9,7 @@
     "json-server-start": "json-server --watch db.json"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.11",
     "debounce": "^1.2.0",
     "firebase": "^6.6.2",
